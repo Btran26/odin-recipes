@@ -1,0 +1,1 @@
+This project shows my new html skills. I have learned a lot these past few days and in this project, it shows all that I've learned so far. There are little things that bug me, such the way the entire website looks, however this is good for a first project.
